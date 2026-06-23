@@ -1,5 +1,6 @@
-site_name: Test spec storage
-site_description: This repository was created to test how store and update product specs in Github
+site_name: Spec Storage Test
+site_description: Test repository for docs-as-code workflow
+docs_dir: .
 
 theme:
   name: material
@@ -22,15 +23,12 @@ theme:
 
 nav:
   - Home: index.md
-  - Discovery:
-      - Session 1 & 2 Summary: discovery/sessions.md
-  - Research:
-      - Competitive Analysis: research/competitive-analysis.md
-  - Requirements:
-      - PRD: requirements/prd.md
+  - Features:
+      - Feature 1: features/feature-1.md
+      - Feature 2: features/feature-2.md
 
 markdown_extensions:
   - admonition
   - tables
   - toc:
-      permalink: trueм
+      permalink: true
