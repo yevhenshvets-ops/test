@@ -1,0 +1,36 @@
+site_name: Test spec storage
+site_description: This repository was created to test how store and update product specs in Github
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Discovery:
+      - Session 1 & 2 Summary: discovery/sessions.md
+  - Research:
+      - Competitive Analysis: research/competitive-analysis.md
+  - Requirements:
+      - PRD: requirements/prd.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: trueм
