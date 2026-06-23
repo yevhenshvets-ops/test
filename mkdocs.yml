@@ -1,6 +1,5 @@
 site_name: Spec Storage Test
 site_description: Test repository for docs-as-code workflow
-docs_dir: .
 
 theme:
   name: material
