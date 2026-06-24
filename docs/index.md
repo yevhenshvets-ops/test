@@ -1,4 +1,4 @@
-# GBG GO — Case Management
+# Documentation processing test
 
 Центральна документація продукту.
 
