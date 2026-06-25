@@ -2,7 +2,7 @@
 
 Test specification of the first feature.
 
-| Поле | Значення |
+| Field | Value |
 |---|---|
 | Status | Draft |
 | Priority | Should have |
