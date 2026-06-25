@@ -3,7 +3,8 @@
 Central product documentation.
 
 !!! note "Status"
-    Draft. Documentation is maintained as docs-as-code.
+
+Draft. Documentation is maintained as docs-as-code.
 
 ## Sections
 - Discovery 
