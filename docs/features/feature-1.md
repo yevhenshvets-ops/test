@@ -1,11 +1,11 @@
 # Feature 1
 
-Тестова специфікація першої фічі.
+Test specification of the first feature.
 
 | Поле | Значення |
 |---|---|
-| Статус | Draft |
-| Пріоритет | Should have |
+| Status | Draft |
+| Priority | Should have |
 
-## Опис
-Тут буде опис Feature 1.
+## Description
+Here will be description of the Feature 1.
