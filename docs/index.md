@@ -1,11 +1,11 @@
 # Documentation processing test
 
-Центральна документація продукту.
+Central product documentation.
 
-!!! note "Статус"
-    Чернетка. Документація ведеться як docs-as-code.
+!!! note "Status"
+    Draft. Documentation is maintained as docs-as-code.
 
 ## Розділи
-- Discovery — підсумки клієнтських сесій
-- Research — конкурентний аналіз
+- Discovery — client session summaries
+- Research — competitive analysis
 - Requirements — PRD
