@@ -1,6 +1,6 @@
 # Feature 2
 
-Тестова специфікація другої фічі.
+Test specification of the Feature 2.
 
-## Опис
-Тут буде опис Feature 2.
+## Description
+Here will be specification of the Feature 2.
